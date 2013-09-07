@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staffdirectory>
+        <details>
+                <first_name>Derek</first_name>
+                <preferred_name>Derek</preferred_name>
+                <staff_number>347001</staff_number>
+                <surname>Smith</surname>
+                <title>Prof</title>
+                <uni_id>DRS078</uni_id>
+                <profile_url>http://www.newcastle.edu.au/staff/research-profile/Derek_Smith/#research</profile_url>
+        </details>
+        <contact_details>
+                <work_number>(02) 4348 4021</work_number>
+                <work_fax>(02) 4348 4013</work_fax>
+                <email> </email>
+        </contact_details>
+        <positions>
+                <position>
+                        <unit>School of Health Sciences</unit>
+                        <division_faculty>Faculty of Health and Medicine</division_faculty>
+                        <location>Callaghan Campus</location>
+                        <clevel>1112671672000</clevel>
+                        <job_number>01</job_number>
+                        <position_title>Professor of Enviornmental &amp; Occupational Health</position_title>
+                </position>
+        </positions>
+        <office>
+                <focus_area>Occupational Health and Safety</focus_area>
+                <area_team>WorkCover Research Centre of Excellence</area_team>
+                <office_location>Ourimbah</office_location>
+                <building>AB</building>
+        </office>
+</staffdirectory>
+~                       
